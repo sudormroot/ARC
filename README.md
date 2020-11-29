@@ -1,4 +1,4 @@
-# Manual-code solution for CT5132
+# Manual-coded Solution for the Module CT5132 of NUI Galway.
 
 This respository is used to finish the assignment 3 of the module CT5132 Programming and Tools for AI of NUI Galway.
 
