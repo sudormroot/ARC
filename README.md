@@ -17,11 +17,7 @@ We choose three problems to solve:
 The direction patterns are either vertical or horizontal:
 
 ### Example: Vertical pattern
-
-The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "GGG...GGG" respectively.
-
 ![image](figures/task_f8a8fe49.png)
-
 
 
 
@@ -45,19 +41,7 @@ We use the following local angel pattern as fingerprint to find out the directio
 
 The pattern requires to move all non-zero numbers (colors) to the bottom of the columns.
 
-E.g. transofrm the following:
-
-    R          Y
-         B    
-    R          Y
-    R    B
-         B
-
-into:
-   
-    R  B
-    R  B  Y
-    R  B  Y
+![image](task_1e0a9b12.png)
 
 ## Task 0ca9ddb6
  
