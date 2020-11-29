@@ -16,7 +16,7 @@ We choose three problems to solve:
 
 The direction patterns are either vertical or horizontal:
 
-### Vertical pattern
+### Example: Vertical pattern
 The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "GGG...GGG" respectively.
 
     GGGGGGGGGGGGGGGGGGGGGG
@@ -30,20 +30,6 @@ The pattern is shown as following, in which the two "xxxxx" marked shapes should
     G                    G
     GGGGGGGGGGGGGGGGGGGGGG
 
-
-### Horizontal pattern
-The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "GGG...GGG" respectively.
-
-   GG                GG 
-   G      R      R    G  
-   G      R      R    G 
-   G      RR     R    G 
-   G      RR     R    G 
-   G      RR     R    G 
-   G      R      R    G 
-   G      R      R    G 
-   G                  G 
-   GG                GG 
 
 
 ### Identify the direction
