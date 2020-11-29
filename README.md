@@ -31,9 +31,71 @@ The pattern is shown as following, in which the two "xxxxx" marked shapes should
     **********************
 
 
-### Vertical pattern
+### Horizontal pattern
 The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "******" respectively.
 
+   **                **
+   *      X      X    *
+   *      X      X    *
+   *      XX     X    *
+   *      XX     X    *
+   *      XX     X    *
+   *      X      X    *
+   *      X      X    *
+   *                  *
+   **                **
+
+### Identify the direction
+We use the following local angel pattern as fingerprint to find out the direction:
+
+#### Finding out vertical pattern by matching:
+       
+        * * *
+        *
+
+ 
+#### Finding out horizontal pattern by matching:
+       
+        * * 
+        *
+        *
+            
+
+## Task 1e0a9b12
+
+The pattern requires to move all non-zero numbers (colors) to the bottom of the columns.
+
+E.g. transofrm the following:
+
+    *          #
+         X    
+    *          #
+    *    X
+         X
+
+into:
+   
+    *  X
+    *  X  #
+    *  X  #
+
+## Task 0ca9ddb6
+ 
+This task requires to paint four corners for given red color with yellow colors, to draw orange cross for given blue color.
+
+We need to change the following pattern:
+ 
+                         Y   Y
+       R      ==>>         R
+                         Y   Y
+
+and:
+
+                           O
+       B      ==>>      O  B  O
+                           O
+
+ 
 
 # The Abstraction and Reasoning Corpus (ARC)
 
