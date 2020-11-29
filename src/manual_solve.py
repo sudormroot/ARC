@@ -53,7 +53,7 @@ import re
            (i). Vertical pattern:
                 (1) Flip the upper shape to the upper outside of the red square brackets.
                 (2) Flip the bottom shape to the bottom outside of the red square brakcets.
-            (ii). Horizontal pattern:
+           (ii). Horizontal pattern:
                 (1) Fip the left shape to the left outside of the red square brackets.
                 (2) Flip the right shape to the righ outside of the red square brackets.
 
@@ -316,6 +316,8 @@ def main():
             ID = m.group(1) # just the task ID
             solve_fn = globals()[name] # the fn itself
             tasks_solvers.append((ID, solve_fn))
+
+    #print("")
 
     for ID, solve_fn in tasks_solvers:
         # for each task, read the data and call test()

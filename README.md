@@ -12,6 +12,29 @@ We choose three problems to solve:
 
 
 
+## Task f8a8fe49
+
+The direction patterns are either vertical or horizontal:
+
+### Vertical pattern
+The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "******" respectively.
+
+    **********************
+    *                    *
+
+       xxxxxxxxxxxxxx
+          xxxxxx
+
+        xxxxxxxxxxxx
+
+    *                    *
+    **********************
+
+
+### Vertical pattern
+The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "******" respectively.
+
+
 # The Abstraction and Reasoning Corpus (ARC)
 
 This repository contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
