@@ -17,18 +17,11 @@ We choose three problems to solve:
 The direction patterns are either vertical or horizontal:
 
 ### Example: Vertical pattern
+
 The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "GGG...GGG" respectively.
 
-    GGGGGGGGGGGGGGGGGGGGGG
-    G                    G
+![image](figures/task_f8a8fe49.png)
 
-       RRRRRRRRRRRRRR
-          RRRRRRR
-
-        RRRRRRRRRRRRR
-
-    G                    G
-    GGGGGGGGGGGGGGGGGGGGGG
 
 
 
