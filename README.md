@@ -18,6 +18,7 @@ The direction patterns are either vertical or horizontal:
 
 ### Example: Vertical pattern
 ![image](figures/task_f8a8fe49.png =200x)
+<img src="figures/task_f8a8fe49.png" width="200">
 
 
 
