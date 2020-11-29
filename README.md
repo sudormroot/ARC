@@ -1,3 +1,17 @@
+# Manual-code solution for CT5132
+
+This respository is used to finish the assignment 3 of the module CT5132 Programming and Tools for AI of NUI Galway.
+
+We choose three problems to solve:
+- f8a8fe49
+    -- This task requires to identify the direction pattern of given shape with given color. Then the direction will be used to flip shapes.
+- 1e0a9b12
+    -- This task requires to move all color blocks down to the bottom.
+- 0ca9ddb6
+    -- This task requires to paint and draw patterns according to the given color.
+
+
+
 # The Abstraction and Reasoning Corpus (ARC)
 
 This repository contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
