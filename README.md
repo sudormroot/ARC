@@ -17,7 +17,6 @@ We choose three problems to solve:
 The direction patterns are either vertical or horizontal:
 
 ### Example: Vertical pattern
-![image](figures/task_f8a8fe49.png =200x)
 <img src="figures/task_f8a8fe49.png" width="200">
 
 
@@ -42,11 +41,14 @@ We use the following local angel pattern as fingerprint to find out the directio
 
 The pattern requires to move all non-zero numbers (colors) to the bottom of the columns.
 
-![image](figures/task_1e0a9b12.png =200x)
+<img src="figures/task_1e0a9b12.png" width="200">
 
 ## Task 0ca9ddb6
  
 This task requires to paint four corners for given red color with yellow colors, to draw orange cross for given blue color.
+
+<img src="figures/task_0ca9ddb6.png" width="200">
+
 
 We need to change the following pattern:
  
