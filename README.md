@@ -19,46 +19,46 @@ The direction patterns are either vertical or horizontal:
 ### Vertical pattern
 The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "******" respectively.
 
-    **********************
-    *                    *
+    GGGGGGGGGGGGGGGGGGGGGG
+    G                    G
 
-       xxxxxxxxxxxxxx
-          xxxxxx
+       RRRRRRRRRRRRRR
+          RRRRRRR
 
-        xxxxxxxxxxxx
+        RRRRRRRRRRRRR
 
-    *                    *
-    **********************
+    G                    G
+    GGGGGGGGGGGGGGGGGGGGGG
 
 
 ### Horizontal pattern
 The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "******" respectively.
 
-   **                **
-   *      X      X    *
-   *      X      X    *
-   *      XX     X    *
-   *      XX     X    *
-   *      XX     X    *
-   *      X      X    *
-   *      X      X    *
-   *                  *
-   **                **
+   GG                GG
+   G      R      R    G
+   G      R      R    G
+   G      RR     R    G
+   G      RR     R    G
+   G      RR     R    G
+   G      R      R    G
+   G      R      R    G
+   G                  G
+   GG                GG
 
 ### Identify the direction
 We use the following local angel pattern as fingerprint to find out the direction:
 
 #### Finding out vertical pattern by matching:
        
-        * * *
-        *
+        G G G
+        G
 
  
 #### Finding out horizontal pattern by matching:
        
-        * * 
-        *
-        *
+        G G 
+        G
+        G
             
 
 ## Task 1e0a9b12
@@ -67,17 +67,17 @@ The pattern requires to move all non-zero numbers (colors) to the bottom of the 
 
 E.g. transofrm the following:
 
-    *          #
-         X    
-    *          #
-    *    X
-         X
+    R          Y
+         B    
+    R          Y
+    R    B
+         B
 
 into:
    
-    *  X
-    *  X  #
-    *  X  #
+    R  B
+    R  B  Y
+    R  B  Y
 
 ## Task 0ca9ddb6
  
