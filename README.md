@@ -41,7 +41,7 @@ We use the following local angel pattern as fingerprint to find out the directio
 
 The pattern requires to move all non-zero numbers (colors) to the bottom of the columns.
 
-![image](task_1e0a9b12.png)
+![image](figures/task_1e0a9b12.png)
 
 ## Task 0ca9ddb6
  
