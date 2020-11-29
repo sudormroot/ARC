@@ -17,7 +17,7 @@ We choose three problems to solve:
 The direction patterns are either vertical or horizontal:
 
 ### Vertical pattern
-The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "******" respectively.
+The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "GGG...GGG" respectively.
 
     GGGGGGGGGGGGGGGGGGGGGG
     G                    G
@@ -32,18 +32,19 @@ The pattern is shown as following, in which the two "xxxxx" marked shapes should
 
 
 ### Horizontal pattern
-The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "******" respectively.
+The pattern is shown as following, in which the two "xxxxx" marked shapes should be flipped over the axis of "GGG...GGG" respectively.
 
-   GG                GG
-   G      R      R    G
-   G      R      R    G
-   G      RR     R    G
-   G      RR     R    G
-   G      RR     R    G
-   G      R      R    G
-   G      R      R    G
-   G                  G
-   GG                GG
+   GG                GG 
+   G      R      R    G  
+   G      R      R    G 
+   G      RR     R    G 
+   G      RR     R    G 
+   G      RR     R    G 
+   G      R      R    G 
+   G      R      R    G 
+   G                  G 
+   GG                GG 
+
 
 ### Identify the direction
 We use the following local angel pattern as fingerprint to find out the direction:
